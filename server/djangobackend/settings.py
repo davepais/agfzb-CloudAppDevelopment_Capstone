@@ -27,7 +27,7 @@ DEBUG = True
 
 APPEND_SLASH = True
 
-ALLOWED_HOSTS = ["dpaismybluemix.net/static",".localhost", '127.0.0.1']
+ALLOWED_HOSTS = ["dpais.mybluemix.net/static",".localhost", '127.0.0.1']
 
 
 # Application definition
